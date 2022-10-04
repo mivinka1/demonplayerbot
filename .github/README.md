@@ -8,6 +8,8 @@
 * Written from scratch, making it stable and less crashes with attractive thumbnails.
 * Loop, Seek, Shuffle, Specific Skip, Playlists etc support
 * Multi-Language support
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/mivinka1/
+demonplayerbot/"> <img 
 
 
 # ⚡️ Getting Started [[Documentation](https://notreallyshikhar.gitbook.io/yukkimusicbot/)]
